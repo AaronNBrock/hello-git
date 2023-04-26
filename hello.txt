@@ -1,2 +1,4 @@
 Hello, world!
 ThingZ
+ThingX
+My cool change
